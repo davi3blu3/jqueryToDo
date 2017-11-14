@@ -1,0 +1,20 @@
+header {
+  background-color: #ddd;
+}
+
+ul#list {
+  list-style: none;
+}
+
+#list li {
+  margin: 2px 0;
+}
+
+.list-item {
+  font-weight: bold;
+}
+
+.complete {
+  color: grey;
+  text-decoration: line-through;
+}
